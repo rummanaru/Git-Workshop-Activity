@@ -16,7 +16,7 @@ operations = [add,
               multiply,
               divide]
 
-# TODO: Implement operations in their own filed. Make each function return their resulting values.
+# TODO: Implement operations in their own files. Make each function return their resulting values.
 
 def run():
     # each operation takes 2 numbers and will do what it wants with it
