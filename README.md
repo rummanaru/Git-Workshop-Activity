@@ -10,7 +10,7 @@
 - Test code by running Calculator.py
 
 Helpful Commands:
-`cd`: Change directory
+`cd [directory]`: Change directory
 `ls`: Lists files in current directory
 
 Using IDLE:
